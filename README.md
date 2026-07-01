@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
  - Projeto M.I.L.E - Circuitos Digitais
 
 Este projeto foi desenvolvido utilizando o software **wiRedPanda** para a disciplina de Circuitos Digitais.
