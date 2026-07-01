@@ -17,4 +17,5 @@ Sistema inteligente e de baixo custo para triagem automatizada de plásticos (LD
 
  - Link dos videos:
    Video do Pitch: https://drive.google.com/file/d/1TFLRl9P4KekoUeMndby-HNg6tyxFeMaZ/view?usp=drive_link
+   
    Video do Circuito Detalhado: https://drive.google.com/file/d/1H6QMD6ZWeFF602fQf3mpyvE0nDoSHlAw/view?usp=drive_link
