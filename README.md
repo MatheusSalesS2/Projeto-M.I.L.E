@@ -12,4 +12,5 @@ Sistema inteligente e de baixo custo para triagem automatizada de plásticos (LD
 
  - Como rodar o projeto
 1. Baixe e instale o [wiRedPanda](https://github.com/GIBIS-UNIFESP/wiRedPanda).
-2. Abra o software e importe o arquivo do circuito que está na pasta raiz.
+2. Baixe o Circuito que você quer usar.
+3. Abra o software e importe o arquivo do circuito que está na pasta Circuito M.I.L.E(circuito Principal) ou Circuitos.
